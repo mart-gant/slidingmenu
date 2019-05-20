@@ -4,7 +4,7 @@ class PageContent extends Component {
     render() {
         return (
             <div>
-                <p>>What you are learning now??</p>
+                <p>>What you are learning now?</p>
                 <ul>
                     <li>Node</li>
                     <li>React</li>
