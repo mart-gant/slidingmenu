@@ -36,15 +36,15 @@ class MenuContainer extends Component {
                 <Menu handleMouseDown={this.handleMouseDown}
                       menuVisibility={this.state.visible}/>
                 <div>
-                    <p>Can you spot the item that doesn&apos;t belong?</p>
+                    <p>What you are learning now?</p>
                     <ul>
-                        <li>Lorem</li>
-                        <li>Ipsum</li>
-                        <li>Dolor</li>
-                        <li>Sit</li>
-                        <li>Bumblebees</li>
-                        <li>Aenean</li>
-                        <li>Consectetur</li>
+                        <li>Node</li>
+                        <li>React</li>
+                        <li>Angular</li>
+                        <li>Vue js</li>
+                        <li>C#</li>
+                        <li>Net core</li>
+                        <li>Xamarin</li>
                     </ul>
                 </div>
             </div>
